@@ -13,8 +13,9 @@
   },
   "position": {
     "enabled": true,
+    "world": "Spawn",
     "x": 0,
-    "y": 100,
+    "y": 1,
     "z": 0
   },
   "utils": {
